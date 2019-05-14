@@ -1,2 +1,2 @@
 # numpy
-numpy小白教程
+一篇numpy小白教程
